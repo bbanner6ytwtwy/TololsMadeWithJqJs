@@ -1,0 +1,20 @@
+.loveCalculator{
+    background-color: red;
+    padding: 5% 10%;
+}
+.BmiCalculator{
+    padding: 5% 10%;
+    background-color: green;
+}
+.ft-name{
+    font-family: cursive;
+    font-size: 3rem;
+}
+.leapYearCalculator{
+    background-color: blue;
+    padding: 5% 10%;
+}
+.LanguageTranslator{
+    background-color: yellow;
+    padding: 5% 10%;
+}
