@@ -141,6 +141,7 @@ function translateToMorse() {
         translatedMessage += secretLanguageNew[tTrans[i]] + " ";
     }
     $("#resultstr").text(" " + translatedMessage);
+     $("#t-trans").val(" ");
 }
 function translateFromMorse() {
     var tTrans = $("#t-trans1").val();
@@ -154,4 +155,5 @@ function translateFromMorse() {
         }
     }
     $("#resultstr1").text(" " + translatedMessage);
+    $("#t-trans").val(" ");
 }
