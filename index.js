@@ -155,5 +155,5 @@ function translateFromMorse() {
         }
     }
     $("#resultstr1").text(" " + translatedMessage);
-    $("#t-trans").val(" ");
+    $("#t-trans1").val(" ");
 }
